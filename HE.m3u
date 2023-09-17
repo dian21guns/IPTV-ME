@@ -6,17 +6,17 @@
 #EXTM3U url-tvg="https://strimz.my.id/epg"
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 1
-https://a41.azplay.me/hls/streama210724/index.m3u8?cst=05b63c258bb50d7858aa2aa3e7a63b8a
+https://a41.azplay.me/hls/streama211899/index.m3u8?cst=fe04e54d0d176b693485985d46b86271
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 2
-https://ecloud.welive.sbs:8089/hls/uObcxZ0llwKW/index.m3u8?st=iJXdcYHeMymkMI2fGmNVLw&e=1694960084
+https://a55.azplay.me/hls/streama212956/index.m3u8?cst=d3ee425fdc8e938296e3236fca9f6c92
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 3
-https://a46.azplay.me/hls/streama211899/index.m3u8?cst=19acdedbe3dc52738b19bd66042cff4d
+https://n1.aliflailaaliflaila.com:999/hls/mhub1.m3u8?md5=tY2ipS6jo-YgSP1ghKMMZQ&expires=1694973180
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 4
-https://a55.azplay.me/hls/streama212956/index.m3u8?cst=20b3bf6a0ab38110622f79cf60ed2ee7
+https://pl5.aliflailaaliflaila.com:999/hls/skysme.m3u8?md5=Xmsfov1hra-AI0iTuYJQIg&expires=1694973234
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 5
 https://vladrums.com/hls/0010.m3u8?md5=w9jRwt4JYNaxBK3n-lpuzA&expires=1694960741

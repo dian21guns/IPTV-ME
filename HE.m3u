@@ -6,10 +6,10 @@
 #EXTM3U url-tvg="https://strimz.my.id/epg"
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 1
-https://a37.azplay.me/hls/streama213658/index.m3u8?cst=5f28c7ec4ad979d46ee6297bb15b6f48
+https://a41.azplay.me/hls/streama210724/index.m3u8?cst=05b63c258bb50d7858aa2aa3e7a63b8a
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 2
-https://ecloud.welive.sbs:8089/hls/4vTLtWWosObV/index.m3u8?st=xWPjBWsI3rDfmaDJo_pg4Q&e=1694927464
+https://ecloud.welive.sbs:8089/hls/uObcxZ0llwKW/index.m3u8?st=iJXdcYHeMymkMI2fGmNVLw&e=1694960084
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 3
 https://vladrums.com/hls/003.m3u8?md5=dElb0ZAJ0VpYX8XACLa_eQ&expires=1694927996

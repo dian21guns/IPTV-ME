@@ -12,17 +12,20 @@ https://a41.azplay.me/hls/streama210724/index.m3u8?cst=05b63c258bb50d7858aa2aa3e
 https://ecloud.welive.sbs:8089/hls/uObcxZ0llwKW/index.m3u8?st=iJXdcYHeMymkMI2fGmNVLw&e=1694960084
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 3
-https://vladrums.com/hls/003.m3u8?md5=dElb0ZAJ0VpYX8XACLa_eQ&expires=1694927996
+https://a46.azplay.me/hls/streama211899/index.m3u8?cst=19acdedbe3dc52738b19bd66042cff4d
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 4
-https://ecloud.welive.sbs:8089/hls/syaLqucEne4k/index.m3u8?st=sx3JEbRek833tHfl5bBpgw&e=1694928181
+https://a55.azplay.me/hls/streama212956/index.m3u8?cst=20b3bf6a0ab38110622f79cf60ed2ee7
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 5
-https://sb2.livemodo.click/oBSAFUOl0B1X9MVs4W_H6w/1694945590/3131302e3133372e3234372e313833/ff59/playlist.m3u8
+https://vladrums.com/hls/0010.m3u8?md5=w9jRwt4JYNaxBK3n-lpuzA&expires=1694960741
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 6
-https://sb1.livemodo.click/zEqW3CkF-G4kpu7j_7kC3A/1694946359/3131302e3133372e3234372e313833/ff84/playlist.m3u8
+https://ecloud.welive.sbs:8089/hls/mJRSSDpi8bd/index.m3u8?st=8H66RN4rWJFLICJiySgrXQ&e=1694964607
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 7
+https://pl5.aliflailaaliflaila.com:999/hls/premieruk.m3u8?md5=0Jz9SUddiF17_Zk_VfOt9A&expires=1694961067
 
 
 #EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="Sports",MavTV 
